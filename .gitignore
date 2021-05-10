@@ -1,2 +1,5 @@
 *.class
+.idea
+Workspace.iml
+out
 .DS_Store
