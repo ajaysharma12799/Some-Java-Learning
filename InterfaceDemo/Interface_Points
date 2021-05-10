@@ -1,0 +1,17 @@
+Interface Points :-
+
+1. All Methods are Public and Abstract, that provide 100% abstraction.
+
+2 All Methods are Public, Final and Static By Default.
+
+JDK 8 Interface Improvement :-
+
+1. We can have Default and Static Method in Interface
+
+Note :- Static Method cannot be Overrided, Can Only Used With Interface Name.
+
+JDK 9 Interface Improvements :-
+
+1. We can have private Method in Interface
+
+Note :- Private Method cannot be Used Outside and cannot be Overrided.
