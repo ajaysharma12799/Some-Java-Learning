@@ -5,3 +5,4 @@
 3. [ArrayList Class File](ArrayListClass.java)
 4. [Linked List Class File](LinkedListClass.java)
 5. [Stack Class File](StackClass.java)
+6. [Collection Class File](CollectionClass.java)
