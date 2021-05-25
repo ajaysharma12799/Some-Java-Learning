@@ -6,3 +6,10 @@
 4. [Linked List Class File](LinkedListClass.java)
 5. [Stack Class File](StackClass.java)
 6. [Collection Class File](CollectionClass.java)
+7. [Queue & Priority Queue Class File](Queue_PriorityQueue_Class.java)
+8. [Dequeue & ArrayDequeue Class File](Dequeue_ArrayDequeue_Class.java)
+
+```
+Note : If You are Using My Collection Framework Repo For Learning 
+Then Please Use Readme File For Correct Learning Path 
+```
