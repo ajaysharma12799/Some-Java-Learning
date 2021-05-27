@@ -13,6 +13,7 @@
 11. [HashSet Class File](HashSetClass.java)
 12. [LinkedHashSet Class File](LinkedHashSetClass.java)
 13. [TreeSet Class File](TreeSetClass.java)
+14. [Map Interface & HashMap Class File](MapInterface_HashMap_Class.java)
 
 ```
 Note : If You are Using My Collection Framework Repo For Learning 
